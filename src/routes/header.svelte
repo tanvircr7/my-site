@@ -35,8 +35,8 @@
 		display: flex;
 		align-items: center; /* Center vertically */
 		justify-content: center; /* Center horizontally */
-		width: 100%; Ensure it takes full width
-		padding-block: var(--size-7);
+		/* width: 100%; Ensure it takes full width */
+		padding-block: var(--size-2);
 		/* border-color: white;
 		border-width: 10px; */
 
