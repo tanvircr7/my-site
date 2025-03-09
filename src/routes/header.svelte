@@ -8,23 +8,23 @@
 		<b>{config.title}</b>
 	</a> -->
 
-	<div class="links">
-		<div>
+	<ul class="links">
+		<li>
 			<a href="/">Hasan</a>
-		</div>
-		<div>
+		</li>
+		<li>
 			<a href="/project">Projects</a>
-		</div>
-		<div>
+		</li>
+		<li>
 			<a href="/blog">Blog</a>
-		</div>
-		<div>
+		</li>
+		<li>
 			<a href="/contact">Contact</a>
-		</div>
-		<!-- <div>
+		</li>
+		<!-- <li>
 			<a href="/rss.xml" target="_blank">RSS</a>
-		</div> -->
-	</div>
+		</li> -->
+	</ul>
 
 	<Toggle  />
 	<!-- <div style="width: 40px; height: 30px; background: 1e1e1e; border-radius: 5px;"></div> -->
@@ -36,14 +36,20 @@
 		align-items: center; /* Center vertically */
 		justify-content: center; /* Center horizontally */
 		/* width: 100%; Ensure it takes full width */
-		padding-block: var(--size-2);
+		padding-block: var(--size-1);
 		/* border-color: black;
 		border-width: 10px; */
 
 		@media (min-width: 768px) {
 			/* Keep centering for larger screens */
 			justify-content: center;
-			padding-left: 50px;
+			padding-left: 56px;
+		}
+
+		@media (max-width: 460px) {
+			/* Keep centering for larger screens */
+			justify-content: center;
+			
 		}
 	}
 

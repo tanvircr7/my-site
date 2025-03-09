@@ -114,10 +114,7 @@
 		color: var(--text-2);
 	}
 
-	.card p {
-		font-size: 14px;
-		color: whitesmoke;
-	}
+	
 
 	.btnHub {
 		display: inline-block;
