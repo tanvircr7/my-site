@@ -8,12 +8,12 @@
 	{#if theme.current === 'dark'}
 		<div in:fly={{ y: 10 }}>
 			<Sun />
-			<span>Light</span>
+			<span class="label">Light</span>
 		</div>
 	{:else}
 		<div in:fly={{ y: -10 }}>
 			<Moon />
-			<span>Dark</span>
+			<span class="label">Dark</span>
 		</div>
 	{/if}
 </button>
@@ -30,6 +30,13 @@
 		> * {
 			display: flex;
 			gap: var(--size-2);
+		}
+
+		/* Hide the text label on smaller screens */
+		@media (max-width: 640px) {
+			.label {
+				display: none;
+			}
 		}
 	}
 </style>
