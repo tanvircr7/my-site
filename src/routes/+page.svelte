@@ -30,7 +30,7 @@
 		<div class="cards">
 			<div class="card">
 				<h3>Retrieval Augmented Generation</h3>
-				<p>OpenAI - Pinecone - Langchain</p>
+				<h5>OpenAI - Pinecone - Langchain</h5>
 				<a href="https://tanvircr7-rag-openai-pinecone.streamlit.app/" class="btn">View</a>
 			</div>
 			<!-- <div class="card">
@@ -83,12 +83,12 @@
 	}
 
 	h2, h5 {
-		color: whitesmoke;
+		color: var(--text-2);
 		margin-bottom: 10px;
 	}
 
 	p {
-		color: whitesmoke;
+		color: var(--text-2);
 		margin-bottom: 10px;
 	}
 
@@ -98,11 +98,12 @@
 		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 		gap: 20px;
 		margin-top: 20px;
+		color: var(--text-2);
 	}
 
 	.card {
 		padding: 30px;
-		background: #1e1e1e;
+		background: var(--background)
 		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 		border-radius: 10px;
 		text-align: center;
@@ -110,7 +111,7 @@
 
 	.card h3 {
 		margin-bottom: 10px;
-		color: whitesmoke;
+		color: var(--text-2);
 	}
 
 	.card p {
@@ -132,10 +133,10 @@
 		display: inline-block;
 		margin-top: 10px;
 		padding: 10px 20px;
-		background: #007bff;
-		color: white;
+		/* background: #007bff; */
+		color: var(--text-2);
 		border-radius: 5px;
-		text-decoration: none;
+		/* text-decoration: none; */
 	}
 
 	.btnHub:hover {
@@ -143,7 +144,7 @@
 	}
 
 	.btn:hover {
-		background: #0056b3;
+		/* background: #0056b3; */
 	}
 
 	@media (max-width: 768px) {

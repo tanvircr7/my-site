@@ -8,26 +8,26 @@
 		<b>{config.title}</b>
 	</a> -->
 
-	<ul class="links">
-		<li>
+	<div class="links">
+		<div>
 			<a href="/">Hasan</a>
-		</li>
-		<li>
+		</div>
+		<div>
 			<a href="/project">Projects</a>
-		</li>
-		<li>
+		</div>
+		<div>
 			<a href="/blog">Blog</a>
-		</li>
-		<li>
+		</div>
+		<div>
 			<a href="/contact">Contact</a>
-		</li>
-		<li>
+		</div>
+		<!-- <div>
 			<a href="/rss.xml" target="_blank">RSS</a>
-		</li>
-	</ul>
+		</div> -->
+	</div>
 
-	<!-- <Toggle  /> -->
-	<div style="width: 40px; height: 30px; background: 1e1e1e; border-radius: 5px;"></div>
+	<Toggle  />
+	<!-- <div style="width: 40px; height: 30px; background: 1e1e1e; border-radius: 5px;"></div> -->
 </nav>
 
 <style>
@@ -37,22 +37,28 @@
 		justify-content: center; /* Center horizontally */
 		/* width: 100%; Ensure it takes full width */
 		padding-block: var(--size-2);
-		/* border-color: white;
+		/* border-color: black;
 		border-width: 10px; */
 
 		@media (min-width: 768px) {
 			/* Keep centering for larger screens */
 			justify-content: center;
+			padding-left: 50px;
 		}
 	}
 
 	.links {
-		display: flex;
-		gap: var(--size-7);
-		list-style: none;
+		/* display: flex; */
+		/* gap: var(--size-7); */
+		/* list-style: none; */
 		margin-block: var(--size-7);
-		/* border-color: white;
+		/* margin-left: 50px; */
+		
+
+		/* border-color: black;
 		border-width: 10px; */
+
+		
 		align-items: center; /* Vertically center the links */
 		justify-content: center; /* Horizontally center the links */
 
