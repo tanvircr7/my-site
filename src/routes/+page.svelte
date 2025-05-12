@@ -30,7 +30,6 @@
 		<div class="cards">
 			<div class="card">
 				<h3>Corrective Retrieval Augmented Generation</h3>
-				<h5>OpenAI - ChromaDB - Langgraph</h5>
 				<a href="https://tanvir-corrective-rag.streamlit.app//" class="btn">View</a>
 			</div>
 			<!-- <div class="card">
