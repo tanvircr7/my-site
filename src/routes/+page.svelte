@@ -19,7 +19,7 @@
 	<section class="startup">
 		<h2>🚀 My Startup</h2>
 		<p>
-			I'm building a startup focused on renting artificial turfs.
+			My project focused on renting artificial turfs.
 		</p>
 		<a href="https://turfhubbd.com" class="btnHub">Turfhub</a>
 	</section>
@@ -29,9 +29,9 @@
 		<h2>📌 My Projects</h2>
 		<div class="cards">
 			<div class="card">
-				<h3>Retrieval Augmented Generation</h3>
-				<h5>OpenAI - Pinecone - Langchain</h5>
-				<a href="https://tanvircr7-rag-openai-pinecone.streamlit.app/" class="btn">View</a>
+				<h3>Corrective Retrieval Augmented Generation</h3>
+				<h5>OpenAI - ChromaDB - Langgraph</h5>
+				<a href="https://tanvir-corrective-rag.streamlit.app//" class="btn">View</a>
 			</div>
 			<!-- <div class="card">
 				<h3>Project 2</h3>
