@@ -3,6 +3,7 @@ title: Resume
 description: Mohammad Tanvir Hasan
 date: '2024-11-2'
 categories:
+  - Computer Science
   - LLM
   - RAG
 published: true
@@ -11,21 +12,21 @@ published: true
 
 # Mohammad Tanvir Hasan
 
-[Email](mdtanvirhasan2583@gmail.com) | **(+1) 501-716-7449** | [LinkedIn](https://www.linkedin.com/in/mdthasan/) | [GitHub](https://github.com/tanvircr7) | [Website](https://tanvircr7.vercel.app/)
+**Email: mdtanvirhasan2583@gmail.com** | **(+1) 501-716-7449** | [LinkedIn](https://www.linkedin.com/in/mdthasan/) | [GitHub](https://github.com/tanvircr7) | [Website](https://tanvircr7.vercel.app/)
 
 ## EDUCATION
 
-**M.Sc. in Computer Science**  
+- **M.Sc. in Computer Science**  
 *University of Arkansas at Little Rock*  
 Aug 24 - Present  
 Arkansas, USA  
-GPA: 4.00/4.00
 
-**B.Sc. in Computer Science and Engineering**  
+
+- **B.Sc. in Computer Science and Engineering**  
 *Khulna University of Engineering & Technology*  
 Grad. 2023  
 Khulna, Bangladesh  
-GPA: 3.32/4.00
+
 
 ## WORK EXPERIENCE
 
@@ -47,13 +48,13 @@ May 2023 - Jul 2024
 
 ## RESEARCH INTERESTS
 
-Secure LLM Frameworks: Developing model-agnostic human-in-the-loop frameworks for identifying and mitigating vulnerabilities in large language models.
+- Secure LLM Frameworks: Developing model-agnostic human-in-the-loop frameworks for identifying and mitigating vulnerabilities in large language models.
 
-Explainable AI for Cybersecurity: Building interpretable LLM systems for cyber threat intelligence extraction and vulnerability detection with transparency guarantees.
+- Explainable AI for Cybersecurity: Building interpretable LLM systems for cyber threat intelligence extraction and vulnerability detection with transparency guarantees.
 
-Adversarial Robustness in Multilingual NLP: Creating language models resistant to adversarial attacks while maintaining performance across low-resource languages.
+- Adversarial Robustness in Multilingual NLP: Creating language models resistant to adversarial attacks while maintaining performance across low-resource languages.
 
-Retrieval-Augmented Generation for Threat Detection: Enhancing LLM factuality and security through knowledge retrieval systems with built-in verification mechanisms.
+- Retrieval-Augmented Generation for Threat Detection: Enhancing LLM factuality and security through knowledge retrieval systems with built-in verification mechanisms.
 
 ## PUBLICATIONS
 
