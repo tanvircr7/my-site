@@ -103,7 +103,7 @@
 
 	.card {
 		padding: 30px;
-		background: var(--background)
+		background: var(--background);
 		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 		border-radius: 10px;
 		text-align: center;
@@ -120,7 +120,7 @@
 		display: inline-block;
 		margin-top: 10px;
 		padding: 10px 20px;
-		background: #32a30f;
+		background: #78ea55;
 		color: white;
 		border-radius: 5px;
 		text-decoration: none;
