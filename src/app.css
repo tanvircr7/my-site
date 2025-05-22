@@ -150,7 +150,7 @@ li {
 	}
 
 	:is(ul, ol) {
-		list-style-type: '🔥';
+		list-style-type: disc;
 		padding-left: var(--size-5);
 	}
 

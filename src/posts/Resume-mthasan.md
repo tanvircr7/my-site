@@ -11,7 +11,7 @@ published: true
 
 # Mohammad Tanvir Hasan
 
-**Email** | **(+1) 501-716-7449** | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) | [Website](https://website.com/)
+[Email](mdtanvirhasan2583@gmail.com) | **(+1) 501-716-7449** | [LinkedIn](https://www.linkedin.com/in/mdthasan/) | [GitHub](https://github.com/tanvircr7) | [Website](https://tanvircr7.vercel.app/)
 
 ## EDUCATION
 
