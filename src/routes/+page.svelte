@@ -119,7 +119,7 @@
 		display: inline-block;
 		margin-top: 10px;
 		padding: 10px 20px;
-		background: #78ea55;
+		background: #29920a;
 		color: white;
 		border-radius: 5px;
 		text-decoration: none;
@@ -136,11 +136,13 @@
 	}
 
 	.btnHub:hover {
-		background: #5b864e;
+		/* background: #257c0b; */
+		box-shadow: 0 4px 8px rgba(141, 241, 171, 0.2); /* Add shadow on hover */
 	}
 
 	.btn:hover {
 		/* background: #0056b3; */
+		box-shadow: 0 4px 8px rgba(53, 121, 223, 0.2);
 	}
 
 	@media (max-width: 768px) {
