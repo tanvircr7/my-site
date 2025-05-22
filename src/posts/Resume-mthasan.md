@@ -104,4 +104,4 @@ Artificial Intelligence, Machine Learning, Natural Language Processing, Computer
 *Muslim Student Association*  
 Oct 24 - Present
 - Organizing and leading several events at the University of Arkansas at Little Rock.
-- Raised over \$2000 for charity.
+- Raised over $2000 for charity.
