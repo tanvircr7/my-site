@@ -1,7 +1,7 @@
 ---
 title: Resume
 description: Mohammad Tanvir Hasan
-date: '2024-11-2'
+date: '--'
 categories:
   - Computer Science
   - LLM
@@ -29,21 +29,21 @@ Khulna, Bangladesh
 
 ## WORK EXPERIENCE
 
-**Graduate Assistant**  
+- **Graduate Assistant**  
 *University of Arkansas at Little Rock*  
 Oct 2024 - May 2025  
 Arkansas, USA
-- Worked with Linux and Windows virtual environments on courses like: Cybersecurity, Digital Forensics.
+<!-- - Worked with Linux and Windows virtual environments on courses like: Cybersecurity, Digital Forensics.
 - Administered coursework, graded assignments and provided constructive feedback.
-- Mentored students through office hours and one-on-one sessions.
+- Mentored students through office hours and one-on-one sessions. -->
 
-**Software Engineer**  
+- **Software Engineer**  
 *Turfhub*  
 May 2023 - Jul 2024  
 [turfhubbd.com](https://turfhubbd.com)
-- Built cross-platform app using React Native and NextJS, serving 40+ sports venues.
+<!-- - Built cross-platform app using React Native and NextJS, serving 40+ sports venues.
 - Led frontend implementation of booking, payment, and authentication features, improving user engagement.
-- Conducted 50+ code reviews and established quality standards, reducing bugs.
+- Conducted 50+ code reviews and established quality standards, reducing bugs. -->
 
 ## RESEARCH INTERESTS
 
